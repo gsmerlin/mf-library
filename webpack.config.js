@@ -21,12 +21,12 @@ const deps = require("./package.json").dependencies;
 const shared = {
     ...deps,
     react: {
-        eager: true,
+        eager: false,
         singleton: true,
         requiredVersion: deps.react,
     },
     "react-dom": {
-        eager: true,
+        eager: false,
         singleton: true,
         requiredVersion: deps["react-dom"]
     }
