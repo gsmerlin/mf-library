@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgsm_mf_library=self.webpackChunkgsm_mf_library||[]).push([[877],{877:(e,n,l)=>{l.r(n),l.d(n,{default:()=>u});var r=l(297),t=l.n(r);const u=function(){return t().createElement("div",null,t().createElement("p",null,"Component 2"))}}}]);

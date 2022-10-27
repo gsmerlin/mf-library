@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgsm_mf_library=self.webpackChunkgsm_mf_library||[]).push([[792],{792:(e,n,r)=>{r.r(n),r.d(n,{default:()=>t});var l=r(297),a=r.n(l);const t=function(){return a().createElement("div",null,a().createElement("p",null,"Component 1"),a().createElement("p",null,"This Paragraph only appears in version 2!"))}}}]);

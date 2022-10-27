@@ -1,0 +1,1 @@
+"use strict";exports.id=792,exports.ids=[792],exports.modules={792:(e,n,t)=>{t.r(n),t.d(n,{default:()=>s});var r=t(297),l=t.n(r);const s=function(){return l().createElement("div",null,l().createElement("p",null,"Component 1"),l().createElement("p",null,"This Paragraph only appears in version 2!"))}}};
