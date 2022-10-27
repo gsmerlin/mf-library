@@ -15,6 +15,12 @@ const getExports = () => fs.readdirSync("./src/components")
         }
     }, {})
 
+/*
+ {
+    './Component1': `./src/components/Component1/index.tsx`
+ }
+ */
+
 const exposes = getExports()
 const name = camelCase(pkg.name);
 const deps = require("./package.json").dependencies;
